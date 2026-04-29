@@ -79,8 +79,12 @@ class IconConfig:
     # fill_color: str = "#e4f0ff"
 
     # 深色主题 蓝色
-    fg_color: str = "#d1e2fc"  # 前景色
-    bg_color: str = "#1c232b"  # 背景色
+    #fg_color: str = "#d1e2fc"  # 前景色
+    #bg_color: str = "#1c232b"  # 背景色
+    
+    # 深色主题 
+    fg_color: str = "#474266"  # 前景色
+    bg_color: str = "#17161b"  # 背景色
 
     # 浅色主题 蓝色
     # fg_color: str  = "#011c31"
